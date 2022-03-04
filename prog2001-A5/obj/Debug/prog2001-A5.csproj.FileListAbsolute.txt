@@ -1,0 +1,7 @@
+C:\Users\thede\source\repos\prog2001-A5\prog2001-A5\bin\prog2001-A5.dll.config
+C:\Users\thede\source\repos\prog2001-A5\prog2001-A5\bin\prog2001-A5.dll
+C:\Users\thede\source\repos\prog2001-A5\prog2001-A5\bin\prog2001-A5.pdb
+C:\Users\thede\source\repos\prog2001-A5\prog2001-A5\obj\Debug\prog2001-A5.csproj.AssemblyReference.cache
+C:\Users\thede\source\repos\prog2001-A5\prog2001-A5\obj\Debug\prog2001-A5.csproj.CoreCompileInputs.cache
+C:\Users\thede\source\repos\prog2001-A5\prog2001-A5\obj\Debug\prog2001-A5.dll
+C:\Users\thede\source\repos\prog2001-A5\prog2001-A5\obj\Debug\prog2001-A5.pdb
